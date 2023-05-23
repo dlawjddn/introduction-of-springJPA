@@ -21,5 +21,6 @@ public class Member {
     protected Member(){
 
     }
+    // getter, setter, constructor...
 
 }
